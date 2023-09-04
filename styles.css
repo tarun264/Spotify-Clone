@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    background: #202020
+  }
+
+  .sidebar{
+    width: 25vw;
+    height: 100vh;
+    background-color: black;
+  }
+#logo{
+   width: 50%;
+  }
+  .home-tag{
+    box-sizing: border-box;
+  }
+  #tag1
+    {
+      box-sizing: border-box;
+      -webkit-tap-highlight-color: transparent;
+      margin-block: 0px;
+      font-size: 1rem;
+      font-weight: 700;
+      font-family: var(--font-family,CircularSp,CircularSp-Arab,CircularSp-Hebr,CircularSp-Cyrl,CircularSp-Grek,CircularSp-Deva,var(--fallback-fonts,sans-serif));
+      color: white;
+  }
+  
